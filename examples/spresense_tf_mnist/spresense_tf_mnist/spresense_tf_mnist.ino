@@ -1,4 +1,4 @@
-#include <TensorFlowLite.h>
+// #include <TensorFlowLite.h> // if you are using ver2.4.1, you should activate this header file.
 #include "tensorflow/lite/micro/all_ops_resolver.h"
 #include "tensorflow/lite/micro/micro_error_reporter.h"
 #include "tensorflow/lite/micro/micro_interpreter.h"
